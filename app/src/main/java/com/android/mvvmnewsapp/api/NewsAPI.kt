@@ -1,6 +1,6 @@
 package com.android.mvvmnewsapp.api
 
-import com.android.mvvmnewsapp.NewsResponse
+import com.android.mvvmnewsapp.models.NewsResponse
 import com.android.mvvmnewsapp.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET

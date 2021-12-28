@@ -1,4 +1,4 @@
-package com.android.mvvmnewsapp
+package com.android.mvvmnewsapp.models
 
 data class Source(
     val id: String,
